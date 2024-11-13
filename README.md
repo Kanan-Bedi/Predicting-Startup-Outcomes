@@ -63,7 +63,7 @@ To run this project locally:
 
 2. **Clone the Repository**:
    ```bash
-   git clone <repository-link>
+   git clone <(https://github.com/Kanan-Bedi/Predicting-Startup-Outcomes.git)>
    cd predicting-startup-outcomes
    ```
 
